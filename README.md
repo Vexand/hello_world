@@ -1,2 +1,3 @@
 # hello_world
-Project
+
+First time ever using Github. I don't like it.
